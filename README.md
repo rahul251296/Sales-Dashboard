@@ -216,7 +216,7 @@ These insights help businesses improve strategic planning and operational effici
 
 
 8 Screenshots/Demos
-Dashboard preview : 
+Dashboard preview : https://github.com/rahul251296/Sales-Dashboard/blob/main/Sales%20Overview.PNG
 
 
 🎯 Conclusion
