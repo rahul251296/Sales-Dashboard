@@ -5,10 +5,11 @@ Project Overview
 The Sales Data Analysis Dashboard is an interactive Power BI project designed to analyze business sales performance across products, regions, time periods, and customer segments.
 
 This dashboard enables stakeholders to monitor key performance indicators, identify high-performing products, evaluate the impact of discount strategies, and understand geographic sales distribution. By transforming raw sales data into meaningful visual insights, the dashboard supports data-driven business decision-making.
+----------------------------------------------------------------------------------------------------------------------------------
 
 📌 Business Problem
 
-Businesses often collect large volumes of sales data but struggle to convert that data into actionable insights. Decision-makers require clear answers to critical questions such as:
+Businesses often collect large volumes of sales data but struggle to turn it into actionable insights. Decision-makers require clear answers to critical questions such as:
 
 Which products generate the most revenue?
 Which cities or regions perform best in terms of sales?
@@ -18,6 +19,7 @@ How does sales performance change over time?
 Without a structured analytical dashboard, identifying these insights can be time-consuming and inefficient.
 
 This Power BI Sales Dashboard solves this challenge by providing an interactive platform where users can explore sales data through dynamic visuals and filters.
+-----------------------------------------------------------------------------------------------------------------------------------
 
 🛠 Tools & Technologies Used
 
@@ -40,6 +42,8 @@ Verified and corrected data types across all columns.
 Created a Date Table to support time-based analysis.
 Established relationships between tables to build a Star Schema data model.
 Optimised the data model for efficient querying and reporting.
+-------------------------------------------------------------------------------------------------------------------------------------
+
 📈 Key DAX Measures
 
 Several important DAX measures were created to support analysis in the dashboard:
@@ -66,9 +70,9 @@ Net Sales = [Total Sales] - ([Total Sales] * [Average Discount])
 
 These measures help calculate important KPIs used throughout the dashboard.
 
-📊 Dashboard Screenshots Used in Various Analyses
+---------------------------------------------------------------------------------------------------------------------------
 
-The dashboard contains multiple visual components used to analyze different aspects of business performance.
+The Power BI dashboard uses multiple visualization types to analyze sales performance from different perspectives. Each visualization helps present insights clearly and supports interactive exploration of the data.
 
 1. Dashboard Overview
 
@@ -216,14 +220,14 @@ These insights help businesses improve strategic planning and operational effici
 
 
 8 Screenshots/Demos
-Dashboard preview : https://github.com/rahul251296/Sales-Dashboard/blob/main/Sales%20Overview.PNG
+Dashboard preview: https://github.com/rahul251296/Sales-Dashboard/blob/main/Sales%20Overview.PNG
 
 
 🎯 Conclusion
 
 The Sales Data Analysis Dashboard provides a comprehensive view of business performance by combining sales metrics, product insights, and geographic analysis in a single interactive platform.
 
-Using Power BI's powerful data modeling and visualization capabilities, this project transforms raw sales data into actionable business intelligence. The dashboard enables organisations to:
+Using Power BI's data modelling and visualisation, this project turns raw sales data into actionable business intelligence. The dashboard enables organisations to:
 
 Monitor key performance indicators
 Identify high-performing products
